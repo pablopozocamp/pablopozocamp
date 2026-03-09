@@ -2,11 +2,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pablopozocamp/pablopozocamp/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pablopozocamp/pablopozocamp/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pablopozocamp/pablopozocamp/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/pablopozocamp/pablopozocamp/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -36,7 +32,6 @@
   <a href="https://www.twitch.tv/pablopozz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   <a href="https://www.youtube.com/@pablopozoo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
